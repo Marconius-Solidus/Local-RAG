@@ -82,7 +82,7 @@ You can change which Embedding Model is being use by changing the model in line 
 For further Embedding Models customization (another local solutions or APIs), see [Embedchain documentation](https://docs.embedchain.ai/components/embedding-models).
 
 ## Changing Embedded Data
-If you want to change the embedded data, open `sample_data.csv`in your text editor or IDE.
+If you want to change the embedded data, open `sample_data.csv` in your text editor or IDE.
 
 Now you can add your URLs or other data.
 
