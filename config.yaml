@@ -1,0 +1,14 @@
+llm:
+  provider: ollama
+  config:
+    model: 'deepseek-r1:1.5b'
+    temperature: 0.5
+    top_p: 1
+    stream: true
+    base_url: 'http://localhost:11434'
+
+embedder:
+  provider: ollama
+  config:
+    model: 'nomic-embed-text'
+    base_url: 'http://localhost:11434'
