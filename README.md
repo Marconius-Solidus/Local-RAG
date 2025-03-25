@@ -16,9 +16,9 @@ The setup assumes you have `python` already installed.
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-2. Pull model from Ollama. Default model is `deepseek-r2:1.5B`
+2. Pull model from Ollama. Default model is `deepseek-r1:1.5B`
 ```bash
-ollama pull deepseek-r2:1.5B
+ollama pull deepseek-r1:1.5B
 ```
 
 3. Open Terminal in Local-RAG folder
